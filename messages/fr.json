@@ -1,0 +1,36 @@
+{
+  "common": {
+    "search": "Rechercher",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "back": "Retour",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "pos": "Point de Vente",
+    "products": "Produits",
+    "customers": "Clients",
+    "sales": "Ventes",
+    "stock": "Stock",
+    "reports": "Rapports",
+    "loyalty": "Fidélité",
+    "promotions": "Promotions",
+    "purchases": "Achats",
+    "wastages": "Rebuts",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "subtitle": "Vue d'ensemble de votre activité",
+    "todaySales": "Ventes du jour",
+    "todayRevenue": "CA du jour",
+    "lowStock": "Stock faible",
+    "activeProducts": "Produits actifs"
+  }
+}

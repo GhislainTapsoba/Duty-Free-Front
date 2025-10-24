@@ -1,0 +1,36 @@
+{
+  "common": {
+    "search": "Search",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "pos": "Point of Sale",
+    "products": "Products",
+    "customers": "Customers",
+    "sales": "Sales",
+    "stock": "Stock",
+    "reports": "Reports",
+    "loyalty": "Loyalty",
+    "promotions": "Promotions",
+    "purchases": "Purchases",
+    "wastages": "Wastages",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Overview of your activity",
+    "todaySales": "Today's Sales",
+    "todayRevenue": "Today's Revenue",
+    "lowStock": "Low Stock",
+    "activeProducts": "Active Products"
+  }
+}
